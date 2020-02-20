@@ -1,0 +1,6 @@
+read_sverilog {clock.sv}
+compile
+report_timing
+report_area
+quit!
+
